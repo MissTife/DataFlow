@@ -1,0 +1,15 @@
+*venv*
+*logs*
+*pycache*
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment-specific files (e.g., virtualenv)
+venv/
+dataflowvenv/
